@@ -2,6 +2,8 @@
 
 This notebook demonstrates real-time face detection using OpenCV's **Haar Cascade** classifier and your computer's webcam.
 
+<img src="cat.png" alt="My cat" width="300">
+
 ## 📌 Features
 - Uses OpenCV's pre-trained `haarcascade_frontalface_default.xml` model.
 - Captures a live video feed from your webcam.
